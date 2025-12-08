@@ -107,7 +107,7 @@
       <br>MaterialUI
     </td>
     <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/39b6ed4ede7c870cadd3b2216d1d0f2e7e5401b3d9565be666c9e281efd0e44c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616e64726f696473747564696f"><img src="https://camo.githubusercontent.com/39b6ed4ede7c870cadd3b2216d1d0f2e7e5401b3d9565be666c9e281efd0e44c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616e64726f696473747564696f" width="45" height="45" alt="AndroidStudio" data-canonical-src="https://skillicons.dev/icons?i=androidstudio" style="max-width: 100%; height: auto; max-height: 45px;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/39b6ed4ede7c870cadd3b2216d1d0f2e7e5401b3d9565be666c9e281efd0e44c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616e64726f696473747564696f"><img src="https://camo.githubusercontent.com/39b6ed4ede7c870cadd3b2216d1d0f2e7e5401b3d9565be666c9e281efd0e44c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616e64726f696473747564696f" width="45" height="45" alt="AndroidStudio" data-canonical-src="https://skillicons.dev/icons?i=openai" style="max-width: 100%; height: auto; max-height: 45px;"></a>
       <br>Android
     </td>
     <td align="center" width="90">
