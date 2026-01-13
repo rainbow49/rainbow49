@@ -208,8 +208,8 @@
   </tr>
   <tr>
     <td align="center" width="90">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c8febfb8556fc408c7cd38960c25da203bf0a1368e78fa9ff4bc20be0f82e3c9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/c8febfb8556fc408c7cd38960c25da203bf0a1368e78fa9ff4bc20be0f82e3c9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667" width="48" height="48" alt="MySQL" data-canonical-src="https://techstack-generator.vercel.app/graphql-icon.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
-      <br>GraphQL
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c8febfb8556fc408c7cd38960c25da203bf0a1368e78fa9ff4bc20be0f82e3c9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667"><img src="https://skillicons.dev/icons?i=cs" height="60" alt="cs logo"  /></a>
+      <br>C#
     </td>
     <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/80ed548a51d016b557772a0452f8d01d7274d15a32f1c08b92b895ee565beede/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6174657269616c7569"><img src="https://camo.githubusercontent.com/80ed548a51d016b557772a0452f8d01d7274d15a32f1c08b92b895ee565beede/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6174657269616c7569" width="45" height="45" alt="MUI v5" data-canonical-src="https://skillicons.dev/icons?i=materialui" style="max-width: 100%; height: auto; max-height: 45px;"></a>
@@ -224,8 +224,8 @@
       <br>Tailwind
     </td>
     <td align="center" width="90">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667"><img src="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 100%; height: auto; max-height: 65px;"></a>
-      <br>Docker
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667"><img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman"></a>
+      <br>Postman
     </td>
     <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/829eb4bb9b9dc77a1f9e2b627dd1d2cb4421399c1c1eb9abff01038987cff7f2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d74687265656a73"><img src="https://camo.githubusercontent.com/829eb4bb9b9dc77a1f9e2b627dd1d2cb4421399c1c1eb9abff01038987cff7f2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d74687265656a73" width="45" height="45" alt="Three.js" data-canonical-src="https://skillicons.dev/icons?i=threejs" style="max-width: 100%; height: auto; max-height: 45px;"></a>
@@ -236,8 +236,8 @@
       <br>Python
     </td>
     <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667"><img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/restapi-icon.svg" style="max-width: 100%; height: auto; max-height: 55px;"></a>
-      <br>REST API
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667"><img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  /></a>
+      <br>React_Vite
     </td>
     <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/24c2ad5638255b73cd86d97a3857d17f5e500bc2ead06dc4e2213d366e6e5e06/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d767565"><img src="https://camo.githubusercontent.com/24c2ad5638255b73cd86d97a3857d17f5e500bc2ead06dc4e2213d366e6e5e06/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d767565" width="45" height="45" alt="Vue" data-canonical-src="https://skillicons.dev/icons?i=vue" style="max-width: 100%; height: auto; max-height: 45px;"></a>
