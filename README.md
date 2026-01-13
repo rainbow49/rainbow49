@@ -136,7 +136,7 @@
       <br>Rust
     </td>
     <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width: 100%; height: auto; max-height: 55px;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"><img src="https://skillicons.dev/icons?i=react" height="60" alt="React Native"></a>
       <br>React
     </td>
     <td align="center" width="90">
@@ -166,11 +166,11 @@
   </tr>
   <tr>
    <td align="center" width="90">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" alt="icon" width="48" height="48" data-canonical-src="https://techstack-generator.vercel.app/aws-icon.svg" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667"><img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  /></a>
       <br>AWS
     </td>
     <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%; height: auto; max-height: 55px;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"><img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo"  /></a>
       <br>Typescript
     </td>
     <td align="center" width="90">
@@ -190,7 +190,7 @@
       <br>MongoDB
     </td>
     <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/mysql-icon.svg" style="max-width: 100%; height: auto; max-height: 55px;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667"><img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  /></a>
       <br>MySQL
     </td>
     <td align="center" width="90">
@@ -220,7 +220,7 @@
       <br>Android
     </td>
     <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f383e4b2c5e8c2ca73221c29ef270d55d82eb3beeb79bd6b409dcb6ab64a4b7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64"><img src="https://camo.githubusercontent.com/f383e4b2c5e8c2ca73221c29ef270d55d82eb3beeb79bd6b409dcb6ab64a4b7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64" width="45" height="45" alt="Tailwind" data-canonical-src="https://skillicons.dev/icons?i=tailwind" style="max-width: 100%; height: auto; max-height: 45px;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f383e4b2c5e8c2ca73221c29ef270d55d82eb3beeb79bd6b409dcb6ab64a4b7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64"><img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind"></a>
       <br>Tailwind
     </td>
     <td align="center" width="90">
@@ -232,7 +232,7 @@
       <br>Three.js
     </td>
     <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%; height: auto; max-height: 55px;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"><img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  /></a>
       <br>Python
     </td>
     <td align="center" width="90">
