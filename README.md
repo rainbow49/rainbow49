@@ -144,11 +144,11 @@
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2aca53d7f9b73ce8d153478d2763069ce31e2fbb1763b4dbaffae8b7325ddda5/68747470733a2f2f73322e636f696e6d61726b65746361702e636f6d2f7374617469632f696d672f636f696e732f36347836342f313032372e706e67"><img src="https://camo.githubusercontent.com/2aca53d7f9b73ce8d153478d2763069ce31e2fbb1763b4dbaffae8b7325ddda5/68747470733a2f2f73322e636f696e6d61726b65746361702e636f6d2f7374617469632f696d672f636f696e732f36347836342f313032372e706e67" width="48" height="48" alt="Ethereum" data-canonical-src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2aca53d7f9b73ce8d153478d2763069ce31e2fbb1763b4dbaffae8b7325ddda5/68747470733a2f2f73322e636f696e6d61726b65746361702e636f6d2f7374617469632f696d672f636f696e732f36347836342f313032372e706e67"><img src="https://skillicons.dev/icons?i=ethereum" height="60" alt="ethereum logo"  /></a>
       <br>Ethereum
     </td>
     <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f74cb7194431fff135977055f97a265b33865fb4e7b52b500325b2777ce84e72/68747470733a2f2f73322e636f696e6d61726b65746361702e636f6d2f7374617469632f696d672f636f696e732f36347836342f353432362e706e67"><img src="https://camo.githubusercontent.com/f74cb7194431fff135977055f97a265b33865fb4e7b52b500325b2777ce84e72/68747470733a2f2f73322e636f696e6d61726b65746361702e636f6d2f7374617469632f696d672f636f696e732f36347836342f353432362e706e67" width="48" height="48" alt="Solana" data-canonical-src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" style="max-width: 100%; height: auto; max-height: 48px;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f74cb7194431fff135977055f97a265b33865fb4e7b52b500325b2777ce84e72/68747470733a2f2f73322e636f696e6d61726b65746361702e636f6d2f7374617469632f696d672f636f696e732f36347836342f353432362e706e67"><img src="https://skillicons.dev/icons?i=solana" height="60" alt="solana logo"  /></a>
       <br>Solana
     </td>
     <td align="center" width="90">
