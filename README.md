@@ -37,11 +37,11 @@
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2aca53d7f9b73ce8d153478d2763069ce31e2fbb1763b4dbaffae8b7325ddda5/68747470733a2f2f73322e636f696e6d61726b65746361702e636f6d2f7374617469632f696d672f636f696e732f36347836342f313032372e706e67"><img src="https://skillicons.dev/icons?i=ethereum" height="60" alt="ethereum logo"  /></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2aca53d7f9b73ce8d153478d2763069ce31e2fbb1763b4dbaffae8b7325ddda5/68747470733a2f2f73322e636f696e6d61726b65746361702e636f6d2f7374617469632f696d672f636f696e732f36347836342f313032372e706e67"><img src="https://camo.githubusercontent.com/3779601f568da95ac6b43a8af9ea873cc60327d1110f22cf69672a0a5499d68d/68747470733a2f2f73322e636f696e6d61726b65746361702e636f6d2f7374617469632f696d672f636f696e732f36347836342f313032372e706e67" height="60" alt="ethereum logo"  /></a>
       <br>Ethereum
     </td>
     <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f74cb7194431fff135977055f97a265b33865fb4e7b52b500325b2777ce84e72/68747470733a2f2f73322e636f696e6d61726b65746361702e636f6d2f7374617469632f696d672f636f696e732f36347836342f353432362e706e67"><img src="https://skillicons.dev/icons?i=solana" height="60" alt="solana logo"  /></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f74cb7194431fff135977055f97a265b33865fb4e7b52b500325b2777ce84e72/68747470733a2f2f73322e636f696e6d61726b65746361702e636f6d2f7374617469632f696d672f636f696e732f36347836342f353432362e706e67"><img src="https://camo.githubusercontent.com/7838a168a6bc57ec2365cb57fe946951edad03c6dcb0c5b4bb4d6d5218e5f3df/68747470733a2f2f73322e636f696e6d61726b65746361702e636f6d2f7374617469632f696d672f636f696e732f36347836342f353432362e706e67" height="60" alt="solana logo"  /></a>
       <br>Solana
     </td>
     <td align="center" width="90">
